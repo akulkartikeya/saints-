@@ -3,7 +3,7 @@
 
 ## And
 
-<img src ="./saints/AndSRC.png">
+<img src="./AndSCR.png">
 
  ## Xor
 
@@ -17,4 +17,4 @@
 
 
 
- <img src ="./saints/XorSRC.png">
+ <img src="./XorSCR.png">
