@@ -2,6 +2,5 @@
 ## And
 <img src ="./saints/AndSRC.png"/>
 
-##Xor
+ ## Xor
  <img src ="./saints/XorSRC.png"/>
- 
