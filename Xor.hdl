@@ -8,5 +8,5 @@ CHIP Xor{
     And(a=a, b=nlOut, out=alOut);
     Not(in=a, out=nrOut);
     And(a=b, b=nrOut, out=arOut);
-    Or(a=alOut, b=arOut, out=out);    
+    Or(a=alOut, b=arOut, out=out);
 }
